@@ -1,6 +1,6 @@
 # WebServer + RestServer
 
 
-* Instalacion:
+⚙️ Instalacion
 
-- 1. npm i
+- ```npm i```
